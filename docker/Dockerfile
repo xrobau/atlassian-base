@@ -1,4 +1,4 @@
-FROM openjdk:jdk-bullseye
+FROM openjdk:11-jdk-bullseye
 MAINTAINER Rob Thomas <xrobau@gmail.com>
 
 ARG LANG_LANGUAGE=en
