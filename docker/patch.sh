@@ -2,7 +2,7 @@
 
 LDC=Version2LicenseDecoder
 
-CLASSES=commons-codec-1.14.jar:atlassian-extras-api-3.4.6.jar:atlassian-extras-legacy-3.4.6.jar:atlassian-extras-common-3.4.6.jar:atlassian-extras-decoder-api-3.4.6.jar:atlassian-extras-key-manager-3.4.6.jar
+CLASSES=commons-codec-1.15.jar:commons-codec-1.14.jar:atlassian-extras-api-3.4.6.jar:atlassian-extras-legacy-3.4.6.jar:atlassian-extras-common-3.4.6.jar:atlassian-extras-decoder-api-3.4.6.jar:atlassian-extras-key-manager-3.4.6.jar:atlassian-extras-3.4.6.jar
 
 rm -rf /usr/local/patch/
 
