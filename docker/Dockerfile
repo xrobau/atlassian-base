@@ -18,6 +18,7 @@ RUN apt-get update && apt-get -y upgrade && \
     apt-get -y install patch bbe vim xmlstarlet && \
     apt-get -y clean
 
+COPY patch.sh /usr/local/bin
 
 CMD ["/bin/bash"]
 
